@@ -12,12 +12,12 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 1. Can you tell me a little bit about yourself?
 2. What are the roles & responsibilities in current company.
 3. Why did you apply for this position?
-4. Why are you looking to leave your current company?
+4. Why are you looking to leave your current company?     looking for better growth.
 5. What are your good professional strengths?
-6. Tell me about a challenge you've faced at work and how you deal with it.
+6. Tell me about a challenge you've faced at work and how you deal with it.   will are going EMR rebuills we face differnce issues we work with user and retifated it.
 7. How do you deal with pressure or stressful situations? any examples
 8. What is DevOps?
-9. Why organizations are implementing DevOps?
+9. Why organizations are implementing DevOps?v for automatics
 10. What are the Benefits of using DevOps
 11. Why do you want to work here?
 12. Where do you see yourself in 5 years?
